@@ -18,7 +18,7 @@ import {
   ChartContainer,
   ChartTooltip,
   ChartTooltipContent,
-} from "@/components/ui/chart";
+} from "@/components/chart";
 import {
   Table,
   TableBody,
